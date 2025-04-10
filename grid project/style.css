@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+min-height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.container{
+    width: 100%;
+    max-width: 500px;
+    min-height: 500px;
+    display: grid;
+   row-gap: 10px;
+}
+.box-one{
+ background-color: tomato;
+ border-radius: 16px;
+ 
+}
+.box-two{
+    background-color: aqua;
+ border-radius: 16px;
+
+
+}
+.box-three{
+    background-color: bisque;
+     border-radius: 16px;
+
+}
+.box-four{
+    background-color: goldenrod;
+     border-radius: 16px;
+
+
+}
+.box-five{
+    background-color: crimson;
+     border-radius: 16px;
+
+}
+.box-six{
+    background-color: orange;
+     border-radius: 16px;
+
+}
