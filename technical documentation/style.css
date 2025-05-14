@@ -9,6 +9,7 @@ body {
 main {
     display: flex;
 }
+/* left_conatiner style */
 .left_container {
   width: 100%;
   max-width: 250px;
@@ -49,6 +50,7 @@ main {
   background: #fff;
   color: #000;
 }
+/* right_container */
 .right_container {
   width: 100%;
   background-color: #23272e;
@@ -96,7 +98,6 @@ ul {
 @media(max-width:500px){
   main{
     flex-direction: column;
-
   }
   .left_container{
     max-width: 500px;
