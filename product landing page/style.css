@@ -8,3 +8,15 @@ html ,body{
     height: 100%;
     
 }
+nav{
+    display: flex;
+}
+ nav ul {
+    list-style-type: none;
+ }
+ nav ul li {
+    padding: 10px 20px;
+ }
+ nav ul li a{
+    text-decoration: none;
+ }
