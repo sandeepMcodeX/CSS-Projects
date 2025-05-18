@@ -20,8 +20,3 @@ nav{
  nav ul li a{
     text-decoration: none;
  }
-main{
-    display:flex;
-    justify-content:center;
-    align-items:center;
-}
